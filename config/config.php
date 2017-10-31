@@ -12,7 +12,7 @@ return array(
     //MYSQL数据库配置
     'mysql' => array(
         'prefix' => 'fi_',
-        "host" => "10.11.100.233",
+        "host" => "localhost",
         "username" => "root",
         "password" => "root2008~",
         "dbname" => "trjp2p",
